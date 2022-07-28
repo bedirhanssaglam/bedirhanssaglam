@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @bedirhanssaglam
+- 👋 Hi, I’m Bedirhan,
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me bedirhansaglam270@gmail.com
