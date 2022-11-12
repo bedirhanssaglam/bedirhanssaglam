@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Bedirhan,
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m Flutter developer at Zalisoft.
 - 📫 How to reach me bedirhansaglam270@gmail.com
