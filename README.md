@@ -2,9 +2,6 @@
   it's so good to see you here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/bedirhanssaglam/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,9 +24,11 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :book: My Latest Articles on Medium :
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/0" alt="Recent Article 2">  
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/3" alt="Recent Article 3">   
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/5" alt="Recent Article 5">   
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/4" alt="Recent Article 4"> 
 
