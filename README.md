@@ -1,8 +1,8 @@
 <h1 >Bedirhan Sağlam</h1>
-<h3 >Flutter Developer from Turkey</h3>
+<h3 >Flutter Developer</h3>
 
 <div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/bedirhanssaglam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadir çelikoğlu" height="30" width="40"
+  <a href="https://www.linkedin.com/in/bedirhanssaglam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -10,7 +10,6 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Developer and contributing for building mobile applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -42,3 +41,5 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 ---
+  
+### It's all about dreams...
