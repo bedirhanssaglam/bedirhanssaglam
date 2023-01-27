@@ -1,4 +1,4 @@
-<h1 >Bedirhan Sağlam</h1>
+<h1 >Bedirhan Saglam</h1>
 <h3 >Flutter Developer</h3>
 
 <div id="badges" align="left">
