@@ -21,10 +21,12 @@
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/1" alt="Recent Article 1">   
   
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/6" alt="Recent Article 6">   
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/2" alt="Recent Article 2">   
   
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/4" alt="Recent Article 4"> 
-
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/5" alt="Recent Article 5"> 
+    
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/7" alt="Recent Article 7"> 
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
