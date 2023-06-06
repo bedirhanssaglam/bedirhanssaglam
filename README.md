@@ -4,17 +4,6 @@
 
 ---
 
-### :man_technologist: About Me :
-- :telescope: I have been developing mobile applications with Flutter for 2.5 years.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I write articles on Flutter and read tech articles.
-
-- :mailbox:How to reach me: bedirhansaglam270@gmail.com
-
----
-
 ### :book: My Latest Articles on Medium :
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/0" alt="Recent Article 0">  
