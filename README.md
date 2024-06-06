@@ -10,6 +10,8 @@
 
 - [i_toast](https://pub.dev/packages/i_toast)
 
+- [audio_plus](https://pub.dev/packages/audio_plus)
+
 - [social_sharing_plus](https://pub.dev/packages/social_sharing_plus)
 
 - [share_and_open_url](https://pub.dev/packages/share_and_open_url)
