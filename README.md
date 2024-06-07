@@ -1,6 +1,7 @@
 <h1 >Bedirhan Saglam</h1>
 <h3 >Mobile Application Developer | Flutter & Kotlin </h3>
-<p align="left"> <a href="https://www.github.com/bedirhanssaglam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bedirhanssaglam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@bedirhanssaglam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+<p align="left"> 
+<a href="https://www.linkedin.com/in/bedirhanssaglam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@bedirhanssaglam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
 
 ---
 
@@ -11,6 +12,8 @@
 - [i_toast](https://pub.dev/packages/i_toast)
 
 - [audio_plus](https://pub.dev/packages/audio_plus)
+
+- [ipagy](https://pub.dev/packages/ipagy)
 
 - [social_sharing_plus](https://pub.dev/packages/social_sharing_plus)
 
