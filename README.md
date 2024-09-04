@@ -17,6 +17,8 @@
 
 - [social_sharing_plus](https://pub.dev/packages/social_sharing_plus)
 
+- [validify](https://pub.dev/packages/validify)
+
 - [share_and_open_url](https://pub.dev/packages/share_and_open_url)
 
 ---
